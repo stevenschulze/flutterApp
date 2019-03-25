@@ -15,16 +15,7 @@ Future<Post> fetchPost() async {
 }
 
 class Post {
-  /*
-  final int userId;
-  final int id;
-  final String title;
-  final String body;
-  */
-
   final bool result;
-
-  //Post({this.userId, this.id, this.title, this.body});
 
   Post({this.result});
 
@@ -56,7 +47,6 @@ class MyApp extends StatelessWidget {
             future: post,
             builder: (context, snapshot) {
               if (snapshot.hasData) {
-                //return Text(snapshot.data.title);
                 if (snapshot.data.result) {
                   return Text("This is a chicken Nugget!");
                 } else {
