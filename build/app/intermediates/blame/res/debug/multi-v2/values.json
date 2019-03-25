@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/steven/Documents/dart/restapi/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/steven/Desktop/flutterApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/steven/Documents/dart/restapi/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/steven/Desktop/flutterApp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
