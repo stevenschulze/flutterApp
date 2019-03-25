@@ -15,20 +15,21 @@ Future<Post> fetchPost() async {
 }
 
 class Post {
+  /*
   final int userId;
   final int id;
   final String title;
   final String body;
+  */
 
-  Post({this.userId, this.id, this.title, this.body});
+  final bool result;
+
+  //Post({this.userId, this.id, this.title, this.body});
+
+  Post({this.result});
 
   factory Post.fromJson(Map<String, dynamic> json) {
-    return Post(
-      userId: json['userId'],
-      id: json['id'],
-      title: json['title'],
-      body: json['body'],
-    );
+    return Post(result: json['result']);
   }
 }
 
@@ -48,14 +49,19 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Read JSON Example'),
+          title: Text('Result'),
         ),
         body: Center(
           child: FutureBuilder<Post>(
             future: post,
             builder: (context, snapshot) {
               if (snapshot.hasData) {
-                return Text(snapshot.data.title);
+                //return Text(snapshot.data.title);
+                if (snapshot.data.result) {
+                  return Text("This is a chicken Nugget!");
+                } else {
+                  return Text("This is NOT a chicken Nugget!");
+                }
               } else if (snapshot.hasError) {
                 return Text("${snapshot.error}");
               }
