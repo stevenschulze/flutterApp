@@ -34,7 +34,7 @@ class MyHomePageState extends State<MyHomePage> {
         source: ImageSource.camera, maxWidth: 500.0, maxHeight: 700.0);
     setState(() {
       image = picture;
-    
+
       if (image == null) {
         return;
       }
@@ -59,13 +59,13 @@ class MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Take a Picture'),
+        title: Text('Take a Picture', textAlign: TextAlign.right),
       ),
       body: Center(
           child: image == null
               ? Text('Smash the Camera Button to Take a Picture')
-              : Image.file(image)),
-      floatingActionButton: FloatingActionButton(
+              : Image.file(image, scale: 2.0,)),
+        floatingActionButton: FloatingActionButton(
         onPressed: getImage,
         tooltip: 'Pick Image',
         child: Icon(Icons.add_a_photo),
