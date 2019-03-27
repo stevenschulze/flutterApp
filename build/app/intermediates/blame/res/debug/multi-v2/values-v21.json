@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/steven/Desktop/flutterApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "C:\\Users\\Steven\\Desktop\\flutterApp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "/home/steven/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6381a18c4acd0693ee1da89713f63670/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\65e43b1a1579e90bb14e0178359da095\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/steven/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c369916eca558ae2cec846f4412d6d/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\34ec84e2679e5d578eb9dc630c64341e\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",

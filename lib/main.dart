@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import './camera/camera.dart';
+import './pages/landing_page.dart';
 
 void main() {
   runApp(new MaterialApp(
-    home: new MyCamera(),
+    home: new LandingPage(),
   ));
 }

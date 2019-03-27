@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/steven/Desktop/flutterApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
+            "outputFile": "C:\\Users\\Steven\\Desktop\\flutterApp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
-                    "source": "/home/steven/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6381a18c4acd0693ee1da89713f63670/res/values-sq/values-sq.xml",
+                    "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\65e43b1a1579e90bb14e0178359da095\\res\\values-sq\\values-sq.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

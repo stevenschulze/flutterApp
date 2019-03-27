@@ -1,29 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "/home/steven/Desktop/flutterApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "C:\\Users\\Steven\\Desktop\\flutterApp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "/home/steven/Desktop/flutterApp/android/app/src/main/res/values/styles.xml",
+                    "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\support-core-ui-27.1.1.aar\\8a42056c1e55f643dd1374f32b8a910f\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "347"
+                        "startLines": "2,3,4,66",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,286,2487",
+                        "endLines": "2,3,65,68",
+                        "endColumns": "60,169,35,12",
+                        "endOffsets": "111,281,2482,2627"
                     },
                     "to": {
-                        "startLines": "117",
-                        "startColumns": "4",
-                        "startOffsets": "5802",
-                        "endLines": "121",
-                        "endColumns": "12",
-                        "endOffsets": "6094"
+                        "startLines": "2,10,11,140",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,613,783,7378",
+                        "endLines": "2,10,72,142",
+                        "endColumns": "60,169,35,12",
+                        "endOffsets": "111,778,2979,7518"
                     }
                 },
                 {
-                    "source": "/home/steven/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c369916eca558ae2cec846f4412d6d/res/values/values.xml",
+                    "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\34ec84e2679e5d578eb9dc630c64341e\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/steven/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6381a18c4acd0693ee1da89713f63670/res/values/values.xml",
+                    "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\65e43b1a1579e90bb14e0178359da095\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,15,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,54,55,59,60,61",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -59,22 +59,22 @@
                     }
                 },
                 {
-                    "source": "/home/steven/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c3efdfb08c74b76fda43a448412aeedc/res/values/values.xml",
+                    "source": "C:\\Users\\Steven\\Desktop\\flutterApp\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,3,4,66",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,116,286,2487",
-                        "endLines": "2,3,65,68",
-                        "endColumns": "60,169,35,12",
-                        "endOffsets": "111,281,2482,2627"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
                     },
                     "to": {
-                        "startLines": "2,10,11,140",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,613,783,7378",
-                        "endLines": "2,10,72,142",
-                        "endColumns": "60,169,35,12",
-                        "endOffsets": "111,778,2979,7518"
+                        "startLines": "117",
+                        "startColumns": "4",
+                        "startOffsets": "5802",
+                        "endLines": "121",
+                        "endColumns": "12",
+                        "endOffsets": "6094"
                     }
                 }
             ]

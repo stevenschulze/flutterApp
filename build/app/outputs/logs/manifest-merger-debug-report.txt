@@ -1,142 +1,142 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-MERGED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
-MERGED from [com.android.support:support-v4:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4b7e0676702c467f91303e3a02fd51aa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c369916eca558ae2cec846f4412d6d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8454a5184f93257f3122fbb373cbdd8a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c3efdfb08c74b76fda43a448412aeedc/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f9ad2fd469fe5cebb5d5aad8be9c8f70/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6381a18c4acd0693ee1da89713f63670/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/00c5120203ff5a0f0b228ada04248561/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/407b268d133b94fad6413569c374af0f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bbee9399b35e7d0e71c734db320ce41f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2e4aa3d14f67cae318c9fc171edf37b/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a0e76e58531289fdae8464913a6051f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\34ec84e2679e5d578eb9dc630c64341e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\70829cd10aaad39812f6dad1ed46bf96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8a42056c1e55f643dd1374f32b8a910f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\598d67c7ce8b95a9d51043ef0b2b2616\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65e43b1a1579e90bb14e0178359da095\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cf78b2de41129e3cf94420d3cfebb7fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3fc2cce914806fb9b74f10d23583a560\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34e08931c3fc2d07c93978aa51d79b7f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d05e303dbb57575b8118fb6662b10cb7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
 	package
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:2:5-34
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:8:5-66
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:8:22-64
 application
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:15:5-38:19
-MERGED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
-MERGED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
 	android:label
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:17:9-32
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:17:9-32
 	android:icon
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:18:9-43
 	android:name
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:16:9-57
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:16:9-57
 activity#com.example.restapi.MainActivity
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:19:9-37:20
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:19:9-37:20
 	android:launchMode
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:21:13-43
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:21:13-43
 	android:hardwareAccelerated
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:24:13-47
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:24:13-47
 	android:windowSoftInputMode
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:25:13-55
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:25:13-55
 	android:configChanges
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:23:13-137
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:23:13-137
 	android:theme
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:22:13-47
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:22:13-47
 	android:name
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:20:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:30:13-32:40
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:30:13-32:40
 	android:value
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:32:17-37
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:32:17-37
 	android:name
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:31:17-82
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:31:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:33:13-36:29
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:34:17-68
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:35:17-76
+ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:35:17-76
 	android:name
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-MERGED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4b7e0676702c467f91303e3a02fd51aa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4b7e0676702c467f91303e3a02fd51aa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c369916eca558ae2cec846f4412d6d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/18c369916eca558ae2cec846f4412d6d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8454a5184f93257f3122fbb373cbdd8a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8454a5184f93257f3122fbb373cbdd8a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c3efdfb08c74b76fda43a448412aeedc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c3efdfb08c74b76fda43a448412aeedc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f9ad2fd469fe5cebb5d5aad8be9c8f70/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f9ad2fd469fe5cebb5d5aad8be9c8f70/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6381a18c4acd0693ee1da89713f63670/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/steven/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6381a18c4acd0693ee1da89713f63670/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/00c5120203ff5a0f0b228ada04248561/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/00c5120203ff5a0f0b228ada04248561/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/407b268d133b94fad6413569c374af0f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/407b268d133b94fad6413569c374af0f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bbee9399b35e7d0e71c734db320ce41f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bbee9399b35e7d0e71c734db320ce41f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2e4aa3d14f67cae318c9fc171edf37b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/steven/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2e4aa3d14f67cae318c9fc171edf37b/AndroidManifest.xml:20:5-44
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a0e76e58531289fdae8464913a6051f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a0e76e58531289fdae8464913a6051f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\34ec84e2679e5d578eb9dc630c64341e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\34ec84e2679e5d578eb9dc630c64341e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\70829cd10aaad39812f6dad1ed46bf96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\70829cd10aaad39812f6dad1ed46bf96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8a42056c1e55f643dd1374f32b8a910f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8a42056c1e55f643dd1374f32b8a910f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\598d67c7ce8b95a9d51043ef0b2b2616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\598d67c7ce8b95a9d51043ef0b2b2616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65e43b1a1579e90bb14e0178359da095\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65e43b1a1579e90bb14e0178359da095\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cf78b2de41129e3cf94420d3cfebb7fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cf78b2de41129e3cf94420d3cfebb7fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3fc2cce914806fb9b74f10d23583a560\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3fc2cce914806fb9b74f10d23583a560\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34e08931c3fc2d07c93978aa51d79b7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34e08931c3fc2d07c93978aa51d79b7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d05e303dbb57575b8118fb6662b10cb7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d05e303dbb57575b8118fb6662b10cb7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/steven/Desktop/flutterApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\flutterApp\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-80
+ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:22-77
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-81
+ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:22-78
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.CAMERA
-ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-65
+ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:22-62
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:22-62
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-74
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-74
 	android:exported
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-82
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:75
+ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:13-19:75
 	android:resource
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-72
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:17-72
 	android:name
-		ADDED from [:image_picker] /home/steven/Desktop/flutterApp/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
+		ADDED from [:image_picker] C:\Users\Steven\Desktop\flutterApp\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:17-67
