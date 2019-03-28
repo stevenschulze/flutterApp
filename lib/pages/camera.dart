@@ -5,7 +5,6 @@ import 'package:image_picker/image_picker.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-
 void main() {
   runApp(MyCamera());
 }
@@ -59,17 +58,21 @@ class MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Take a Picture', textAlign: TextAlign.right),
+        
       ),
       body: Center(
           child: image == null
-              ? Text('Smash the Camera Button to Take a Picture')
+              ? Text('Take a picture of a chicken nugget', style: new TextStyle())
               : Image.file(image, scale: 2.0,)),
-        floatingActionButton: FloatingActionButton(
-        onPressed: getImage,
-        tooltip: 'Pick Image',
-        child: Icon(Icons.add_a_photo),
-      ),
-    );
+        floatingActionButton: new FloatingActionButton(
+          onPressed: getImage,
+          child: const Icon(Icons.lens),
+          //child: const Icon(Icons.local_see),          
+        ),
+        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+        bottomNavigationBar: new BottomAppBar(
+          color: Colors.blueAccent,
+        ), 
+    ); 
   }
 }
