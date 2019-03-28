@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 Future<Post> fetchPost() async {
-  final response = await http.get('http://stevenschulze.io/json/result.json');
+  final response = await http.get('https://stevenschulze.io/image/result.json');
 
   if (response.statusCode == 200) {
     return Post.fromJson(json.decode(response.body));
@@ -15,12 +15,17 @@ Future<Post> fetchPost() async {
 }
 
 class Post {
+  final String fileName;
+  final String accuracy;
   final bool result;
 
-  Post({this.result});
+  Post({this.fileName, this.result, this.accuracy});
 
   factory Post.fromJson(Map<String, dynamic> json) {
-    return Post(result: json['result']);
+    return Post(
+        fileName: json["fileName"],
+        result: json["result"],
+        accuracy: json["accuracy"]);
   }
 }
 
@@ -48,9 +53,12 @@ class MyResult extends StatelessWidget {
             builder: (context, snapshot) {
               if (snapshot.hasData) {
                 if (snapshot.data.result) {
-                  return Text("This is a chicken Nugget!");
+                  return Text("This is a chicken Nugget! \n with " +
+                      snapshot.data.accuracy +
+                      " accuracy");
                 } else {
-                  return Text("This is NOT a chicken Nugget!");
+                  return Text("This is NOT a chicken Nugget!",
+                      style: TextStyle(color: Colors.black, fontSize: 22, fontWeight:FontWeight.bold));
                 }
               } else if (snapshot.hasError) {
                 return Text("${snapshot.error}");

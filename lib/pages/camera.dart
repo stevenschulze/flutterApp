@@ -57,21 +57,23 @@ class MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.blueGrey,
       appBar: AppBar(
-        
+        backgroundColor: Colors.greenAccent,    
       ),
       body: Center(
           child: image == null
-              ? Text('Take a picture of a chicken nugget', style: new TextStyle())
+              ? Text('Take a picture of a chicken nugget')
               : Image.file(image, scale: 2.0,)),
         floatingActionButton: new FloatingActionButton(
+          backgroundColor: Colors.greenAccent,
           onPressed: getImage,
           child: const Icon(Icons.lens),
           //child: const Icon(Icons.local_see),          
         ),
         floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
         bottomNavigationBar: new BottomAppBar(
-          color: Colors.blueAccent,
+          color: Colors.greenAccent,
         ), 
     ); 
   }
